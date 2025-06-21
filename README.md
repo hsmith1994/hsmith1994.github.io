@@ -14,21 +14,21 @@ You can find my code review [here](https://youtu.be/wUd5pwhC9YM) and the artifac
 ## Software design and engineering
 For this category enhancement, I converted the Java artifact to Python. This conversion demonstrates my knowledge of both programming languages, an understanding of object-oriented programming practices, security best practices, and understanding the client’s needs and functionality of the program. My enhanced Python program not only achieves all the functionality of the original artifact but also expands upon it by including a menu for the client to interact with to intake new pets and calculate totals upon checkout.
 
-You can find my enhanced python files [Pet Grooming](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGrooming.py) and [Pet Grooming Menu](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGroomingMenu.py).
+My software design and engineering enhancements are [Pet Grooming](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGrooming.py) and [Pet Grooming Menu](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGroomingMenu.py).
 
 My written narrative accompanying this enhancement which includes justification for the inclusion, the course outcomes this enhancement aligned with, and a reflection of my process enhancing the artifact can be found [here](/CS499Milestone2Smith.docx).
 
 ## Algorithm and data structure
 For this category enhancement, I added a dictionary data structure and a sorting algorithm that previously did not exist in the artifact. I chose to implement a dictionary data structure because of how straight forward the approach to updating the capacity, checking for space, and adding and removing pets and how well this data structure works with the database I also had to implement. The artifact is improved by the addition of dictionary data structure, and I also included a sort menu for when the user wants to check the pets that are currently checked in.
 
-You can find my enhanced python files [Pet Grooming](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGrooming.py) and [Pet Grooming Menu](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGroomingMenu.py).
+My algorithm and data structure enhancements are [Pet Grooming](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGrooming.py) and [Pet Grooming Menu](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGroomingMenu.py).
 
 My written narrative accompanying this enhancement which includes justification for the inclusion and a reflection of my process enhancing the artifact can be found [here](/CS499Milestone3NarrativeSmith.docx).
 
 ## Databases
 For this category enhancement, I added a database that was not present in the original artifact. I chose MongoDB for my database as I’ve used it in previous courses as well as PyMongo for implementing MongoDB in a python environment. I implemented authentication and authorization so that the data stored within my database is secured.
 
-You can find my enhanced python files [Pet Grooming](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGrooming.py) and [Pet Grooming Menu](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGroomingMenu.py).
+My database enhancements are [Pet Grooming](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGrooming.py) and [Pet Grooming Menu](https://github.com/hsmith1994/hsmith1994.github.io/blob/main/PetGroomingMenu.py).
 
 My written narrative accompanying this enhancement which includes justification for the inclusion and a reflection of my process enhancing the artifact can be found [here](/CS499Milestone4Smith.docx).
 
